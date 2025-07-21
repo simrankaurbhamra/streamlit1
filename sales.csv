@@ -1,0 +1,13 @@
+Category,SubCategory,Sales,Profit,Discount
+Furniture,Chair,555,200,100
+Stationary,Marker,650,100,10
+Food,Pizza,690,250,30
+Furniture,Table,500,200,100
+Stationary,Pen,800,100,10
+Food,Sandwich,700,250,20
+Furniture,Bed,400,500,150
+Stationary,Pencil,500,55,8
+Food,Burger,300,250,10
+Furniture,Sofa,350,1000,200
+Stationary,Eraser,200,90,7
+Food,Noodles,100,30,15
